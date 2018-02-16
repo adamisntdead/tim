@@ -1,6 +1,6 @@
 # Tim
 
-> A Mininal Hugo Theme Based On [Tim Holman's Site](https://github.com/tholman/tholman.com)
+> A Minimal Hugo Theme Based On [Tim Holman's Site](https://github.com/tholman/tholman.com)
 
 ## Installation
 
